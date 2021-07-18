@@ -1,2 +1,1 @@
-### mongo-node-express-todo
-# Simple one-page app "ToDo List"
+# Simple one-page pet project "ToDo List"
